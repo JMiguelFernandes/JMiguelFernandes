@@ -1,16 +1,14 @@
-### Hi there 👋
+![alt text](https://github.com/JMiguelFernandes/JMiguelFernandes/blob/master/long_form_dashboard.gif)
 
-<!--
-**JMiguelFernandes/JMiguelFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm João :blush: I'm a data analyst with a scientific background. I'm currently doing the Data Analytics Bootcamp at Ironhack to sharpen my skills before diving back into job searching. It's turning out to be really fun! :smile: You can check out my projects in the repos below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the things I'm learning:
+- Python
+- MySQL
+- Data viz with Tableau
+- Statistics
+- Machine Learning
+- A/B testing
+
+You can also find me on Linkedin [here](https://www.linkedin.com/in/jmiguelfernandes/)
