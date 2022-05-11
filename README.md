@@ -3,14 +3,14 @@
 
 Hi! I'm João :blush: 
 
-I'm a data analyst with a scientific background. I'm currently doing the Data Analytics Bootcamp at Ironhack to sharpen my skills before diving back into job searching. It's turning out to be really fun! :smile: You can check out my projects in the repos below.
+I'm a data analyst with a background in biology. I'm currently finishing a 6-month internship at a fintech company (N26, Berlin). On this profile I have a few old projects from when I did a Data Analytics Bootcamp (be kind, I've improved since then :sweat_smile:). My company Github can be found [here](https://github.com/JoaoFernandesN26).
 
-Here are some of the things I'm learning:
-- Python
-- MySQL
-- Data viz with Tableau
-- Statistics
-- Machine Learning
-- A/B testing
+Here are some of the things I've worked on in the last few months at N26:
+- Tons and tons of SQL
+- Creating and changing data models in Redshift using dbt + Jenkins
+- Snowplow tracking
+- Data viz with Metabase
+- A/B testing (with Bayesian statistics)
+- Customer onboarding
 
 You can also find me on Linkedin [here](https://www.linkedin.com/in/jmiguelfernandes/)
